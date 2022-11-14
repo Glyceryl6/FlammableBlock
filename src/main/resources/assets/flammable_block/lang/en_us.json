@@ -1,0 +1,14 @@
+{
+  "flaming.info.file.can_burn": "Can Burn",
+  "flaming.info.file.block_name": "Block Name",
+  "flaming.info.file.registry_name": "Registry Name",
+  "flaming.info.file.output": "§6Block information has been save as %s",
+  "flaming.info.file.invalid": "§cThe Mod is not exist, please check for typo",
+  "flaming.info.add.success": "§e%s §r§ahas been add to flammable block list",
+  "flaming.info.add.fail": "§cThis item is already exist in flammable block list",
+  "flaming.info.add.error": "§cTried to set §r§e%s §r§con fire...This is bad",
+  "flaming.info.remove.success": "§e%s §r§ahas been remove from flammable block list",
+  "flaming.info.remove.fail": "§cThis item is not found in flammable block list",
+  "flaming.info.reload.success": "§aConfig reloaded",
+  "flaming.info.reload.fail": "§cConfig failed to reload"
+}

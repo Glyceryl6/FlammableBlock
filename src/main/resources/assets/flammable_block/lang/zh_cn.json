@@ -1,0 +1,14 @@
+{
+  "flaming.info.file.can_burn": "能否燃烧",
+  "flaming.info.file.block_name": "方块名称",
+  "flaming.info.file.registry_name": "注册名称",
+  "flaming.info.file.output": "§6方块信息已保存为 %s",
+  "flaming.info.file.invalid": "§c该Mod不存在，请检查是否存在拼写错误",
+  "flaming.info.add.success": "§a已将 §r§e%s §r§a添加到可燃方块列表中",
+  "flaming.info.add.fail": "§c该物品已存在于可燃方块列表中",
+  "flaming.info.add.error": "§c你确定要将 §r§e%s §r§c设置为可燃方块吗？感觉不太好吧...",
+  "flaming.info.remove.success": "§a已将 §r§e%s §r§a从可燃方块列表中移除",
+  "flaming.info.remove.fail": "§c该物品不存在于可燃方块列表中",
+  "flaming.info.reload.success": "§a配置文件已加载",
+  "flaming.info.reload.fail": "§c配置文件加载失败"
+}
